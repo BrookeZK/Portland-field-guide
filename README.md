@@ -19,7 +19,7 @@ _This is a web application that allows users to search local native and invasive
 ## Setup Instructions for accessing the Application
 
 #### To view project file
-* Clone this GitHub repository "https://github.com/meganschultepdx/Portland-field-guide.git" to your desktop. 
+* Clone this GitHub repository "https://github.com/BrookeZK/Portland-field-guide.git" to your desktop. 
 * Open the repository in a preferred text editor such as Atom or Visual Studio Code.
 
 #### To run the application
